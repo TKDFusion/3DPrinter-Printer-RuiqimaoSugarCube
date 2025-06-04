@@ -124,7 +124,7 @@ The front panel requires ~1.5mm-2mm of foam for sealing.
 
 | Part | Quantity | Link |
 |:-|:-:|:-|
-| 10mm x 3mm countersunk N52 magnet pair | 8 pairs | [K&J Magnetics](https://www.kjmagnetics.com/proddetail.asp?prod=R622CS-P-N52) |
+| 10mm x 3mm countersunk N52 magnet pair | 5 pairs | [K&J Magnetics](https://www.kjmagnetics.com/proddetail.asp?prod=R622CS-P-N52) |
 | Rubber grommet | 2 | [McMaster-Carr](https://www.mcmaster.com/9307K65/) |
 | 38mm x 19mm rubber feet | 4 | [KB3D](https://kb-3d.com/store/hardware/458-rubber-machine-foot-amplifier-38mm-x-19mm-set-of-4-1642262899696.html) |
 | 15.5mm x 3mm ID x 4mm OD PTFE tube | 2 | [Amazon](https://www.amazon.com/dp/B07B8CK8L9/) |
